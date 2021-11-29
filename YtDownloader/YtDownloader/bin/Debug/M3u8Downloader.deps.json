@@ -1,0 +1,89 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "M3u8Downloader/1.0.0": {
+        "dependencies": {
+          "BrotliSharpLib": "0.3.2.0",
+          "CommandLine": "2.8.0.0",
+          "Newtonsoft.Json": "13.0.0.0",
+          "NiL.JS": "2.5.1428.0"
+        },
+        "runtime": {
+          "M3u8Downloader.dll": {}
+        },
+        "resources": {
+          "en-US/M3u8Downloader.resources.dll": {
+            "locale": "en-US"
+          },
+          "zh-TW/M3u8Downloader.resources.dll": {
+            "locale": "zh-TW"
+          }
+        }
+      },
+      "BrotliSharpLib/0.3.2.0": {
+        "runtime": {
+          "BrotliSharpLib.dll": {
+            "assemblyVersion": "0.3.2.0",
+            "fileVersion": "0.3.3.0"
+          }
+        }
+      },
+      "CommandLine/2.8.0.0": {
+        "runtime": {
+          "CommandLine.dll": {
+            "assemblyVersion": "2.8.0.0",
+            "fileVersion": "2.8.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.0.0": {
+        "runtime": {
+          "Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      },
+      "NiL.JS/2.5.1428.0": {
+        "runtime": {
+          "NiL.JS.dll": {
+            "assemblyVersion": "2.5.1428.0",
+            "fileVersion": "2.5.1428.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M3u8Downloader/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BrotliSharpLib/0.3.2.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommandLine/2.8.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/13.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NiL.JS/2.5.1428.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

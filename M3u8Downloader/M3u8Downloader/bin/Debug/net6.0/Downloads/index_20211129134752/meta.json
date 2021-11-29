@@ -1,0 +1,2112 @@
+{
+  "m3u8": "https://www.gvpass.com/1638165048/45b7f023fdab4267af8a4189f414d9bf/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index.m3u8",
+  "m3u8BaseUri": "https://www.gvpass.com/1638165048/45b7f023fdab4267af8a4189f414d9bf/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/",
+  "updateTime": "2021-11-29T13:47:59.5196213+08:00",
+  "m3u8Info": {
+    "originalCount": 262,
+    "count": 262,
+    "vod": true,
+    "targetDuration": 10,
+    "totalDuration": 2585.2799999999997,
+    "segments": [
+      [
+        {
+          "index": 0,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000000",
+          "duration": 5.08,
+          "segUri": "https://data.zhujitg.com/6b1573e68e4d4ec0e96b5ace64a6a78f/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index0.js"
+        },
+        {
+          "index": 1,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000001",
+          "duration": 9.92,
+          "segUri": "https://data.zhujitg.com/2fcb1d7fb8f85f2451bd5f6d797b9d47/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index1.js"
+        },
+        {
+          "index": 2,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000002",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/88c8ac7c2226189230f4e85de83549bb/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index2.js"
+        },
+        {
+          "index": 3,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000003",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/e4eab79d8543a2a04ad35bbcf34010c9/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index3.js"
+        },
+        {
+          "index": 4,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000004",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/516adb5e3c3d812ff02bb05e54bb8e9d/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index4.js"
+        },
+        {
+          "index": 5,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000005",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/06ffac03ef8853fc78b75243d8094c7b/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index5.js"
+        },
+        {
+          "index": 6,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000006",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/7609771388f4406b50991d541cae46eb/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index6.js"
+        },
+        {
+          "index": 7,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000007",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/581330cbb9f47c0ab5e92505f23ea6b7/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index7.js"
+        },
+        {
+          "index": 8,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000008",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/aef7cd9aca7aab8bc8dc891dee328420/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index8.js"
+        },
+        {
+          "index": 9,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000009",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/0069819b62cddc621f46c9286f12c09a/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index9.js"
+        },
+        {
+          "index": 10,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000000a",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/57a0692dca2c24f8ea18436d3a6f7745/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index10.js"
+        },
+        {
+          "index": 11,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000000b",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/872723a5f4840d3f240c7c4b8f913dd1/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index11.js"
+        },
+        {
+          "index": 12,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000000c",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/62c9f6282874e0160498b7e55b11b06a/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index12.js"
+        },
+        {
+          "index": 13,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000000d",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/f5c61f9d113c7007cdd872099f14db84/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index13.js"
+        },
+        {
+          "index": 14,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000000e",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/f3d1b73b82b03e75438831225220bb32/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index14.js"
+        },
+        {
+          "index": 15,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000000f",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/04909c39bbdd01273c181eef09d84399/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index15.js"
+        },
+        {
+          "index": 16,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000010",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/ee11938808507778f948ba8972067229/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index16.js"
+        },
+        {
+          "index": 17,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000011",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/fe89428188628c86930e2a5b9e88dc26/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index17.js"
+        },
+        {
+          "index": 18,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000012",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/c67c44df42d2d59792785239a749249c/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index18.js"
+        },
+        {
+          "index": 19,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000013",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/cfa0de4c00b4b20270032081bbacb59b/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index19.js"
+        },
+        {
+          "index": 20,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000014",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/7bfd548c9244e427c07e18234a50800f/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index20.js"
+        },
+        {
+          "index": 21,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000015",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/93eac7f85db4afce0d1fe97f33e3f047/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index21.js"
+        },
+        {
+          "index": 22,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000016",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/65b096fb7cc3b69ca3afbe94fae3e537/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index22.js"
+        },
+        {
+          "index": 23,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000017",
+          "duration": 2.68,
+          "segUri": "https://data.zhujitg.com/fa4f7768e7eb038cd6aed4aab936bdb0/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index23.js"
+        },
+        {
+          "index": 24,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000018",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/6e64bbb62a19d7feada7f16028ac2369/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index24.js"
+        },
+        {
+          "index": 25,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000019",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/fc9c3aef5a9135b5894654f975befccf/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index25.js"
+        },
+        {
+          "index": 26,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000001a",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/2b1fb66bbf386d9465f162ca1d6f8b38/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index26.js"
+        },
+        {
+          "index": 27,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000001b",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/48fbd33c3a60ff23fce1f26c0b0c142e/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index27.js"
+        },
+        {
+          "index": 28,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000001c",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/00f4b60e10d05295e0a006b3bbf0241b/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index28.js"
+        },
+        {
+          "index": 29,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000001d",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/c2d9fb6e99c9771a99c67d47eb5e9b59/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index29.js"
+        },
+        {
+          "index": 30,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000001e",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/74a43a699cce79140c518f6b518459cd/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index30.js"
+        },
+        {
+          "index": 31,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000001f",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/faac7d7be033f868985e615f131f9c26/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index31.js"
+        },
+        {
+          "index": 32,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000020",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/a816b5d1c4c09c401ce8d0aff6355eb9/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index32.js"
+        },
+        {
+          "index": 33,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000021",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/9337d35154912e678c92f3eb94b2d25e/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index33.js"
+        },
+        {
+          "index": 34,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000022",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/8e9cba0e7386aa2cbc7a7e76fbf9142d/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index34.js"
+        },
+        {
+          "index": 35,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000023",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/d3212bfe3849e8e2753d4fe660c11344/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index35.js"
+        },
+        {
+          "index": 36,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000024",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/a981603f96887f2c367de22a38e35bd1/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index36.js"
+        },
+        {
+          "index": 37,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000025",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/5a79551701e7919304abe2d28b7ff17c/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index37.js"
+        },
+        {
+          "index": 38,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000026",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/72cad0cb83873335ff29cb35a5e1a3c2/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index38.js"
+        },
+        {
+          "index": 39,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000027",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/74d90c3459c5008c093bd92670dd00f2/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index39.js"
+        },
+        {
+          "index": 40,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000028",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/4fe82be0180f483ebcb6810da3b55b84/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index40.js"
+        },
+        {
+          "index": 41,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000029",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/d369cc271d0b91ed25d15ab9483557db/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index41.js"
+        },
+        {
+          "index": 42,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000002a",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/a7723c49e65b2f359f07d3ae6a952dac/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index42.js"
+        },
+        {
+          "index": 43,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000002b",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/9b138a1a29fef703c70de8661f41ecba/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index43.js"
+        },
+        {
+          "index": 44,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000002c",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/962af9af8a79344f4fb667f92d00266e/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index44.js"
+        },
+        {
+          "index": 45,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000002d",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/fe02b0fa54ba3cf2d9d36a7006bbacf4/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index45.js"
+        },
+        {
+          "index": 46,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000002e",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/c265bac459f937572bb90414eba1e5c4/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index46.js"
+        },
+        {
+          "index": 47,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000002f",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/47fd9fdbe9cfc0043ac9a1170617e5b0/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index47.js"
+        },
+        {
+          "index": 48,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000030",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/5e8703cb6c2cc84920596080bd7ea583/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index48.js"
+        },
+        {
+          "index": 49,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000031",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/a08532e6d0c1c06c89284acb32b84fbb/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index49.js"
+        },
+        {
+          "index": 50,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000032",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/4068566987e0c220343ba3661551ee52/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index50.js"
+        },
+        {
+          "index": 51,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000033",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/c798740954ee8d4a0bfcab290fcfc95f/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index51.js"
+        },
+        {
+          "index": 52,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000034",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/65e57d226b4ae7cecce7aaf0d86828f3/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index52.js"
+        },
+        {
+          "index": 53,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000035",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/ea4a3cec0f2a9461835a32a1c65c344f/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index53.js"
+        },
+        {
+          "index": 54,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000036",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/f776ab92980e5ef325b3643296523ccb/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index54.js"
+        },
+        {
+          "index": 55,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000037",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/90d910fed31adcdcd68a3562634e5686/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index55.js"
+        },
+        {
+          "index": 56,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000038",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/2fe62a62ae02a9946baf283ec41d4662/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index56.js"
+        },
+        {
+          "index": 57,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000039",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/08755b3b530387fbfbba3add9db98240/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index57.js"
+        },
+        {
+          "index": 58,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000003a",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/0616f6d7efb10d1f12184ac92ab33c54/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index58.js"
+        },
+        {
+          "index": 59,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000003b",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/ba04e08509719c7169e37347d1b7296c/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index59.js"
+        },
+        {
+          "index": 60,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000003c",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/fbfe66c155e8bb298d2050d59f848cdb/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index60.js"
+        },
+        {
+          "index": 61,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000003d",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/9060fede33fbe852127e18eaebb1385c/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index61.js"
+        },
+        {
+          "index": 62,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000003e",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/a23036703918f7928d9ad3ce365369f3/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index62.js"
+        },
+        {
+          "index": 63,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000003f",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/cc54cd8859565c95bfada0a6fcc453ca/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index63.js"
+        },
+        {
+          "index": 64,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000040",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/542c266e9d912fbb9623e0f30dbaf8a0/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index64.js"
+        },
+        {
+          "index": 65,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000041",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/627dc8cce1a92f25d0cb4e29a1987bc8/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index65.js"
+        },
+        {
+          "index": 66,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000042",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/a151eca59f2aa52ee2d753a44cae03a3/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index66.js"
+        },
+        {
+          "index": 67,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000043",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/fff36a3a2255d5750713758a7a2b64fc/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index67.js"
+        },
+        {
+          "index": 68,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000044",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/f50a8fcbb08cc9b0b730b87997853599/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index68.js"
+        },
+        {
+          "index": 69,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000045",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/5ae8db012f0ebe2e5945b57022d7acc0/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index69.js"
+        },
+        {
+          "index": 70,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000046",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/8ca86e70b69f57d10a9cd84b79a78bc5/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index70.js"
+        },
+        {
+          "index": 71,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000047",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/5caf38d2e9bb5fc69b183441cd83523d/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index71.js"
+        },
+        {
+          "index": 72,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000048",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/f77a0fae3adc017bce82dc1dc9940a7c/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index72.js"
+        },
+        {
+          "index": 73,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000049",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/de75d2b053b9cbe3c7c82fb63c549527/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index73.js"
+        },
+        {
+          "index": 74,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000004a",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/2bc1672042625404308e4e4677ab2039/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index74.js"
+        },
+        {
+          "index": 75,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000004b",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/b0a20616f52a0780d6a3ce678cfe7b8d/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index75.js"
+        },
+        {
+          "index": 76,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000004c",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/a512f580b7c53c11604e1f9114bd84c6/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index76.js"
+        },
+        {
+          "index": 77,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000004d",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/f696a3bbfe780bd89e5397f73062c8e3/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index77.js"
+        },
+        {
+          "index": 78,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000004e",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/40d85f9b9429e19f371d5efdfc04fc10/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index78.js"
+        },
+        {
+          "index": 79,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000004f",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/a9353dfc052a2adac487ddcd2063eee6/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index79.js"
+        },
+        {
+          "index": 80,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000050",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/23a4a3e477f87b71566363f1816559a6/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index80.js"
+        },
+        {
+          "index": 81,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000051",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/80b5cea1d2cf75bb4523e55aa418bf2f/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index81.js"
+        },
+        {
+          "index": 82,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000052",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/30cfeaec3cdefda561a1cd953ca36e25/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index82.js"
+        },
+        {
+          "index": 83,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000053",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/29a8ab43c54d9268e8c895d80e991ee7/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index83.js"
+        },
+        {
+          "index": 84,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000054",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/2fea6d3270bac90860f8a29081c920ab/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index84.js"
+        },
+        {
+          "index": 85,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000055",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/ff613768cf0e934c20aff7d85e4b9edd/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index85.js"
+        },
+        {
+          "index": 86,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000056",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/5651cdfcc16f308ba1fff3527a1ef2d7/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index86.js"
+        },
+        {
+          "index": 87,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000057",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/99c03d6198dd715575458835746b25e4/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index87.js"
+        },
+        {
+          "index": 88,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000058",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/29d1dcdc3ba394ae2ac19fd74146e305/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index88.js"
+        },
+        {
+          "index": 89,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000059",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/602ec98bf15f7faaad58d3bb1ca3bd34/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index89.js"
+        },
+        {
+          "index": 90,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000005a",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/9b5366d3fb73cad961f2c7355ba03e80/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index90.js"
+        },
+        {
+          "index": 91,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000005b",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/37c29e610ae273593562c7339ab39235/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index91.js"
+        },
+        {
+          "index": 92,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000005c",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/5897f18e28a063ead7f4d3ee816d8e98/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index92.js"
+        },
+        {
+          "index": 93,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000005d",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/bb89ab7646d1df020418e52630174fc5/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index93.js"
+        },
+        {
+          "index": 94,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000005e",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/7796c24d9ce3e873efe49d7959562a7e/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index94.js"
+        },
+        {
+          "index": 95,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000005f",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/0e0ff58ba95a553a5b77ea443cc7b988/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index95.js"
+        },
+        {
+          "index": 96,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000060",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/c38c2a0ed6914786c9c3aad40c101ff7/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index96.js"
+        },
+        {
+          "index": 97,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000061",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/529ca90784af0a5d6862e418c534852d/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index97.js"
+        },
+        {
+          "index": 98,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000062",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/6e0f7740dee9cc8287db276170fad2ba/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index98.js"
+        },
+        {
+          "index": 99,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000063",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/d5c11cde5e73dfece882e925b8b46359/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index99.js"
+        },
+        {
+          "index": 100,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000064",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/49ccebfef833a770223f0a5d1a7c8aae/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index100.js"
+        },
+        {
+          "index": 101,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000065",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/cb35d4585ca9eeae1d9009e651d355ad/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index101.js"
+        },
+        {
+          "index": 102,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000066",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/17e9f917f0e7e87bbc5ba48f46d1cb6b/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index102.js"
+        },
+        {
+          "index": 103,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000067",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/c4e30342f258aea9c19ab68e9986d3d7/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index103.js"
+        },
+        {
+          "index": 104,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000068",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/d62491f819369f2d1bda2ea5f2645e9f/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index104.js"
+        },
+        {
+          "index": 105,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000069",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/232d404e4f135656db7367b54f8f0eb9/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index105.js"
+        },
+        {
+          "index": 106,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000006a",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/adf8fdc33aa962cd837035d2e3be8d8e/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index106.js"
+        },
+        {
+          "index": 107,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000006b",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/d5df87fc1483394936e35137c0dac57d/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index107.js"
+        },
+        {
+          "index": 108,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000006c",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/90b9aa6549c0c0db7d4d74255535c672/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index108.js"
+        },
+        {
+          "index": 109,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000006d",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/8032f5d504047a14cf0c313954b48d56/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index109.js"
+        },
+        {
+          "index": 110,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000006e",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/4e31d3239b95a5622de3a14cd10499d3/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index110.js"
+        },
+        {
+          "index": 111,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000006f",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/74f5e80f9724ac631f45344c1f37b880/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index111.js"
+        },
+        {
+          "index": 112,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000070",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/bf0df2900225ae26f547f59bc93ac4c4/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index112.js"
+        },
+        {
+          "index": 113,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000071",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/8d934b3839056d932778ebfcf1af2020/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index113.js"
+        },
+        {
+          "index": 114,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000072",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/68c1bafca2608e99119aea96540681de/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index114.js"
+        },
+        {
+          "index": 115,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000073",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/04ed88473c6f7a0076eee46bf5fffb3a/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index115.js"
+        },
+        {
+          "index": 116,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000074",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/b4bfd7a40b07e122405b82bde7218e1c/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index116.js"
+        },
+        {
+          "index": 117,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000075",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/d73fbd5402ebaf80670438449396239b/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index117.js"
+        },
+        {
+          "index": 118,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000076",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/92931f94b4cc58de204b5410876c68e5/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index118.js"
+        },
+        {
+          "index": 119,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000077",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/4a4361dffc72d361c3424e83c4a66378/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index119.js"
+        },
+        {
+          "index": 120,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000078",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/274ca7229d8640653c314adb32345485/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index120.js"
+        },
+        {
+          "index": 121,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000079",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/ae1e5a6a658163be2f41ae6bd9067ee0/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index121.js"
+        },
+        {
+          "index": 122,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000007a",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/b1dfc2783d1a757c15fc596be95403bb/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index122.js"
+        },
+        {
+          "index": 123,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000007b",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/b150e5691f8ffaaae3e543ca57989192/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index123.js"
+        },
+        {
+          "index": 124,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000007c",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/99437ec0bf3567b9e9eac59892917e5e/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index124.js"
+        },
+        {
+          "index": 125,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000007d",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/285a009e62026e4f9ced2ca870fcd6be/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index125.js"
+        },
+        {
+          "index": 126,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000007e",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/8f708b7aaa6f7519de050deead69877f/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index126.js"
+        },
+        {
+          "index": 127,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000007f",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/0b75161be2d439c5ab8dc83b557bfca3/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index127.js"
+        },
+        {
+          "index": 128,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000080",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/d420b70c492b86c3443472a37e3a8381/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index128.js"
+        },
+        {
+          "index": 129,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000081",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/be8abf26358e1666151bbe42e84d0890/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index129.js"
+        },
+        {
+          "index": 130,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000082",
+          "duration": 4.76,
+          "segUri": "https://data.zhujitg.com/1291b01c0cbb7fb25d9699bde9e47d8e/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index130.js"
+        },
+        {
+          "index": 131,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000083",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/b683ab3877d17662ebb1e0c96467ce9d/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index131.js"
+        },
+        {
+          "index": 132,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000084",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/1f0ef921dfed93e375876cc88b242c9d/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index132.js"
+        },
+        {
+          "index": 133,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000085",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/ca13a889711afcc1c60d970509e34f95/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index133.js"
+        },
+        {
+          "index": 134,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000086",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/0aed5c43ebaa41f1ee9458ed9dd635f9/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index134.js"
+        },
+        {
+          "index": 135,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000087",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/ddd40c0c4b60862d3f8df5f8d0900f57/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index135.js"
+        },
+        {
+          "index": 136,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000088",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/f31ae3dc010cd6696022d3f911cd0428/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index136.js"
+        },
+        {
+          "index": 137,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000089",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/68baae3cc2ca05bc7ae5159a5a1b1dbf/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index137.js"
+        },
+        {
+          "index": 138,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000008a",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/7599de93e0365ce8f08cff33597f3a63/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index138.js"
+        },
+        {
+          "index": 139,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000008b",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/c341aaf666efa7526fdd78f0eb05a616/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index139.js"
+        },
+        {
+          "index": 140,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000008c",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/c4162589df45d10c04beb06d3e322c6a/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index140.js"
+        },
+        {
+          "index": 141,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000008d",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/a15652a457917ccf045790ca7e7d7d44/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index141.js"
+        },
+        {
+          "index": 142,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000008e",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/771b3c3f827ede74bf50ba8c6ef64381/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index142.js"
+        },
+        {
+          "index": 143,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000008f",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/8c6da0821bcdb71f4a47062f80857e5e/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index143.js"
+        },
+        {
+          "index": 144,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000090",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/d668534a915e7321241b7553b429b1ca/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index144.js"
+        },
+        {
+          "index": 145,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000091",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/ce3cfee9af1fe85c9842b6e35f57ec4d/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index145.js"
+        },
+        {
+          "index": 146,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000092",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/9b03c9421eb40e78f80cb8d092827b3e/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index146.js"
+        },
+        {
+          "index": 147,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000093",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/ab2c53e321c0971cf89059d39adf7bad/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index147.js"
+        },
+        {
+          "index": 148,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000094",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/bd617cbd8f99e4ceb2d9706ad1cf916c/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index148.js"
+        },
+        {
+          "index": 149,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000095",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/8206b9936fb024e9ca15caab2e5a1b56/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index149.js"
+        },
+        {
+          "index": 150,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000096",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/227594b1967bd24a18f97f017da7f9df/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index150.js"
+        },
+        {
+          "index": 151,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000097",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/7e808819018a3462c8076a2a0773cc9c/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index151.js"
+        },
+        {
+          "index": 152,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000098",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/94aeb075c0c2296626482c85eea860bc/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index152.js"
+        },
+        {
+          "index": 153,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000099",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/d4e313158430131f70b726ccf6725b27/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index153.js"
+        },
+        {
+          "index": 154,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000009a",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/e1b9aa51e5c291d0566d5ed8ecc1773e/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index154.js"
+        },
+        {
+          "index": 155,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000009b",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/56a50bb7f6b7402d6a8e2b0562743815/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index155.js"
+        },
+        {
+          "index": 156,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000009c",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/44697a1e1aca62fdbc7a4bcd42d195ea/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index156.js"
+        },
+        {
+          "index": 157,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000009d",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/3051b1bc533d7d8ee204595fb2bb9c2b/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index157.js"
+        },
+        {
+          "index": 158,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000009e",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/4f4be3a7f371fc28ce11fd0e29a57de7/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index158.js"
+        },
+        {
+          "index": 159,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x0000000000000000000000000000009f",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/7cb3234cd848799028da5210ddf855a9/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index159.js"
+        },
+        {
+          "index": 160,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000a0",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/37eda9e2504ba2260b2e23949ad19831/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index160.js"
+        },
+        {
+          "index": 161,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000a1",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/2909e5aabf80a15a6632d7869649ed2b/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index161.js"
+        },
+        {
+          "index": 162,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000a2",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/2119b60c3b61605d06df43fa27dd4df6/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index162.js"
+        },
+        {
+          "index": 163,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000a3",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/65ad4ad1060e76f118f7b87a698dd97f/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index163.js"
+        },
+        {
+          "index": 164,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000a4",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/23b2fd9def2fa259d5b6cb67de90b76b/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index164.js"
+        },
+        {
+          "index": 165,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000a5",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/b62a31cfcf994c03261d4a1947716c60/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index165.js"
+        },
+        {
+          "index": 166,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000a6",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/b35a84b4a57bb435bdad36d83996608d/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index166.js"
+        },
+        {
+          "index": 167,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000a7",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/8e25d38dd4838f1dda360e6e3c28802c/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index167.js"
+        },
+        {
+          "index": 168,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000a8",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/fd12f41428ddf5d2162394705cb30f44/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index168.js"
+        },
+        {
+          "index": 169,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000a9",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/fd6e2218826a71fe7bf0e2f255a9ac97/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index169.js"
+        },
+        {
+          "index": 170,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000aa",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/29594583a218b0dee6a5e9475921aae0/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index170.js"
+        },
+        {
+          "index": 171,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000ab",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/190a9ec15de12776b919becfb9aa3956/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index171.js"
+        },
+        {
+          "index": 172,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000ac",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/3e758eeb5e03e7787d8753736b17c135/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index172.js"
+        },
+        {
+          "index": 173,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000ad",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/9b160d9eee6ce7e6fe5cc460e4b1de80/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index173.js"
+        },
+        {
+          "index": 174,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000ae",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/3ec0588da93251fca259f7542dbcf411/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index174.js"
+        },
+        {
+          "index": 175,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000af",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/7fbc4815f780938ab344bf22cff6989c/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index175.js"
+        },
+        {
+          "index": 176,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000b0",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/482fbfeb6419bd62df81625169035560/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index176.js"
+        },
+        {
+          "index": 177,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000b1",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/7be8fa4a17a852f33a90a238d8a97c5b/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index177.js"
+        },
+        {
+          "index": 178,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000b2",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/ea68d9a02e0a97b581217a57789e0ea3/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index178.js"
+        },
+        {
+          "index": 179,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000b3",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/ae6bbeda6c1c9a93f4b39ee528714961/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index179.js"
+        },
+        {
+          "index": 180,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000b4",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/6e8dc7a2f3d49d48adda5dce9f54ce64/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index180.js"
+        },
+        {
+          "index": 181,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000b5",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/dc72af43b247940709b0e2fb7dd8a688/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index181.js"
+        },
+        {
+          "index": 182,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000b6",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/e74a0c47c256c17f8be2eda6f16ac1ed/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index182.js"
+        },
+        {
+          "index": 183,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000b7",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/e4bf078c9d060449d50b782772733335/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index183.js"
+        },
+        {
+          "index": 184,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000b8",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/7f853a0878e77b1e4ed28e1d4a87f5c0/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index184.js"
+        },
+        {
+          "index": 185,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000b9",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/5a9b396c75ec2e44913434a106080994/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index185.js"
+        },
+        {
+          "index": 186,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000ba",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/94951278e03c12d2f0776e7761c7dbad/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index186.js"
+        },
+        {
+          "index": 187,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000bb",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/8372659a81109663a17141fe2faaccf3/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index187.js"
+        },
+        {
+          "index": 188,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000bc",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/2398f1ba9243d2ed37904d6a4f56d741/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index188.js"
+        },
+        {
+          "index": 189,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000bd",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/e82e40c1728a40f11c1a1e3fbeefe2be/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index189.js"
+        },
+        {
+          "index": 190,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000be",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/6957f351a13f89cf9fdea7778a49c402/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index190.js"
+        },
+        {
+          "index": 191,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000bf",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/eb02b83714f5a55593f8b90dbc88cd70/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index191.js"
+        },
+        {
+          "index": 192,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000c0",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/bcace16ac1003eefad283d18ab787237/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index192.js"
+        },
+        {
+          "index": 193,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000c1",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/cbffe5d9b8b460ecb3b04bfde29a84ae/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index193.js"
+        },
+        {
+          "index": 194,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000c2",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/12a07d017b53771c46359a62112e93cb/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index194.js"
+        },
+        {
+          "index": 195,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000c3",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/9db5ec9dd0df46b155f217f480cf0e6c/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index195.js"
+        },
+        {
+          "index": 196,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000c4",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/b17ec17b5e7cc99ecc941b6c5e1f9668/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index196.js"
+        },
+        {
+          "index": 197,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000c5",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/de6695cda7fd28ed180b6096bc1129a8/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index197.js"
+        },
+        {
+          "index": 198,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000c6",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/ec7e651f4a7a8b1e0bfd7c8b0ae04363/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index198.js"
+        },
+        {
+          "index": 199,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000c7",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/87450695f0c7df6954337a65b32c88eb/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index199.js"
+        },
+        {
+          "index": 200,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000c8",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/4e578c6a9e95a51cded1f8992ee7983f/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index200.js"
+        },
+        {
+          "index": 201,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000c9",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/a5fbedc8e32ffbf1fc3d0375329f1c4e/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index201.js"
+        },
+        {
+          "index": 202,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000ca",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/7711710a0e824a00e247bc671b52d583/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index202.js"
+        },
+        {
+          "index": 203,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000cb",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/7e20729169459509dccfed1ceb1037bf/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index203.js"
+        },
+        {
+          "index": 204,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000cc",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/e4052a36c48813c7d57cda7929701325/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index204.js"
+        },
+        {
+          "index": 205,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000cd",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/ce4c19fe1a58c478214ec0a535c4735e/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index205.js"
+        },
+        {
+          "index": 206,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000ce",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/8fc24ce3a4262d9305d6edeaaac485a6/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index206.js"
+        },
+        {
+          "index": 207,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000cf",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/c6b8cbb623b3fbad8935cbd98d5fb39a/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index207.js"
+        },
+        {
+          "index": 208,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000d0",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/ea74245263f42478aa040a49545fe096/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index208.js"
+        },
+        {
+          "index": 209,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000d1",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/81f285bbaf9360f6eeffce15e52fad1f/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index209.js"
+        },
+        {
+          "index": 210,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000d2",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/ee6d01e02d4ce28a89e76cd5e5a9234e/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index210.js"
+        },
+        {
+          "index": 211,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000d3",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/17d90559360308eaf71290b31b02f07e/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index211.js"
+        },
+        {
+          "index": 212,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000d4",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/cf4bb551437d675990dbe49622e0757d/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index212.js"
+        },
+        {
+          "index": 213,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000d5",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/ee2e3215d8d652295476aa46a7efbeaa/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index213.js"
+        },
+        {
+          "index": 214,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000d6",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/59b52f74e0094fb36672260bf1d93465/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index214.js"
+        },
+        {
+          "index": 215,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000d7",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/ab158417362e0adce44af93ef06f68dc/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index215.js"
+        },
+        {
+          "index": 216,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000d8",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/ee7b859f53be1d38ae7b08021cfcaf27/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index216.js"
+        },
+        {
+          "index": 217,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000d9",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/866a2f87ef6eb78f088d894841324877/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index217.js"
+        },
+        {
+          "index": 218,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000da",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/88ee4b341eb4857ed8a926301c38dcd3/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index218.js"
+        },
+        {
+          "index": 219,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000db",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/7e3c8a37dfcb37d69af8b5a6c18e8ea2/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index219.js"
+        },
+        {
+          "index": 220,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000dc",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/25f2246e9cd8aa386b140d0888446f1a/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index220.js"
+        },
+        {
+          "index": 221,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000dd",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/027943f93c68286c769fba2f6444bc54/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index221.js"
+        },
+        {
+          "index": 222,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000de",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/1d2fa31bbdc5172c50432ecb3cc55c90/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index222.js"
+        },
+        {
+          "index": 223,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000df",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/0a3b097291531fb53e340e985b8933d8/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index223.js"
+        },
+        {
+          "index": 224,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000e0",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/704c314abc8cfe7840d1650e2855adf1/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index224.js"
+        },
+        {
+          "index": 225,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000e1",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/f3fc16dce4b0a10f7a3edae8b6aba201/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index225.js"
+        },
+        {
+          "index": 226,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000e2",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/24af6721455be1761c48592946854496/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index226.js"
+        },
+        {
+          "index": 227,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000e3",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/a75c61092aa84e52719c91fafa696bf1/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index227.js"
+        },
+        {
+          "index": 228,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000e4",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/363dbf2ca2abd9ceb9e1c91f48d740dd/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index228.js"
+        },
+        {
+          "index": 229,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000e5",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/7700662342a73ed32b768361d5cf1fd1/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index229.js"
+        },
+        {
+          "index": 230,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000e6",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/802b71ef4a56ff95eafedf4bd80b4f89/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index230.js"
+        },
+        {
+          "index": 231,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000e7",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/f238f4190e6a2ddb3870f21456358876/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index231.js"
+        },
+        {
+          "index": 232,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000e8",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/ecfb98f0b2ad6534aacc73facc75719b/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index232.js"
+        },
+        {
+          "index": 233,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000e9",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/6c9deda65b8938ff9522faabda6f8a4a/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index233.js"
+        },
+        {
+          "index": 234,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000ea",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/8d53b3513fe803db30485b1c089033ca/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index234.js"
+        },
+        {
+          "index": 235,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000eb",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/885ae8ec4a506ee250350c5917c1e88a/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index235.js"
+        },
+        {
+          "index": 236,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000ec",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/969cd8f96e6748d6b037be4c0099e7bc/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index236.js"
+        },
+        {
+          "index": 237,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000ed",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/7b244bd4a2362ed005cb3e7b070ff2da/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index237.js"
+        },
+        {
+          "index": 238,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000ee",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/c29d19dc038e9e06f3ff870a9a9c819a/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index238.js"
+        },
+        {
+          "index": 239,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000ef",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/03dcdd433e3e7bb57357557e44d21d1e/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index239.js"
+        },
+        {
+          "index": 240,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000f0",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/90d95919b4fcebf17ed0d7c7cae3a1d8/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index240.js"
+        },
+        {
+          "index": 241,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000f1",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/6ab1deb8b5dbb90342640b8732e7a412/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index241.js"
+        },
+        {
+          "index": 242,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000f2",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/01a00ea4f90cd7478c7ab7bb3907bbd6/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index242.js"
+        },
+        {
+          "index": 243,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000f3",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/56d63a914eb9fa9fa39a0807e6120199/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index243.js"
+        },
+        {
+          "index": 244,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000f4",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/ea2a57053d2038b45e1ef494d2abeee2/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index244.js"
+        },
+        {
+          "index": 245,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000f5",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/b6c1848bf40c36430645afb19d76ed47/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index245.js"
+        },
+        {
+          "index": 246,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000f6",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/c29417af36240c37ed67fca9d78ddd25/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index246.js"
+        },
+        {
+          "index": 247,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000f7",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/28c93aaeec597b95ba0a9779150e8eb0/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index247.js"
+        },
+        {
+          "index": 248,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000f8",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/3d095f5e4dc11bc3370608bd664630e1/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index248.js"
+        },
+        {
+          "index": 249,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000f9",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/2d4d2a4b0fce9e3ca53c0ef86e727696/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index249.js"
+        },
+        {
+          "index": 250,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000fa",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/991302fe039fc12139cc36d006e0b185/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index250.js"
+        },
+        {
+          "index": 251,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000fb",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/f7785912d91b2ce0bed3cde022ec0204/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index251.js"
+        },
+        {
+          "index": 252,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000fc",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/179a6d5346e4595697ddf894a5e52bdc/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index252.js"
+        },
+        {
+          "index": 253,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000fd",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/8f90c45e6133535d794ecc3017e45c90/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index253.js"
+        },
+        {
+          "index": 254,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000fe",
+          "duration": 7.24,
+          "segUri": "https://data.zhujitg.com/4094e199ffd4ec95650107eadaa4a799/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index254.js"
+        },
+        {
+          "index": 255,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x000000000000000000000000000000ff",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/974047fdf2d76236d3dd2b35468f735f/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index255.js"
+        },
+        {
+          "index": 256,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000100",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/652a37ac67de39b22a3ff0876ba4a9c5/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index256.js"
+        },
+        {
+          "index": 257,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000101",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/f45f4f6b4d22883a32066b95c2ee449f/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index257.js"
+        },
+        {
+          "index": 258,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000102",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/2b89e702fd0da9df66df4dff3576be3e/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index258.js"
+        },
+        {
+          "index": 259,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000103",
+          "duration": 10.0,
+          "segUri": "https://data.zhujitg.com/f3a1431ad247ee180eeb29a3541facb3/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index259.js"
+        },
+        {
+          "index": 260,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000104",
+          "duration": 1.04,
+          "segUri": "https://data.zhujitg.com/83c77bda66953738147fa2f573cd5e16/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index260.js"
+        },
+        {
+          "index": 261,
+          "method": "AES-128",
+          "key": "OVN5dU85azlLeEZWd09Bbg==",
+          "iv": "0x00000000000000000000000000000105",
+          "duration": 4.56,
+          "segUri": "https://data.zhujitg.com/963ffec38a9eea6e73b1429d73f255dc/61a4698a/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index261.js"
+        }
+      ]
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+ffmpeg started on 2021-11-29 at 12:18:57
+Report written to "D:/workspace/M3u8Downloader/M3u8Downloader/M3u8Downloader/bin/Debug/net6.0/Logs/2021-11-29_12-18-13-044_ffreport.log"
+Log level: 32
+Command line:
+"D:\\\xd1\xb8\xc0\xd7\xcf\xc2\xd4\xd8\\ffmpeg-2021-11-18-git-85a6b7f7b7-full_build\\ffmpeg-2021-11-18-git-85a6b7f7b7-full_build\\bin\\ffmpeg.exe" -loglevel warning -i "concat:000.ts|001.ts|002.ts|003.ts|004.ts|005.ts|006.ts|007.ts|008.ts|009.ts|010.ts|011.ts|012.ts|013.ts|014.ts|015.ts|016.ts|017.ts|018.ts|019.ts|020.ts|021.ts|022.ts|023.ts|024.ts|025.ts|026.ts|027.ts|028.ts|029.ts|030.ts|031.ts|032.ts|033.ts|034.ts|035.ts|036.ts|037.ts|038.ts|039.ts|040.ts|041.ts|042.ts|043.ts|044.ts|045.ts|046.ts|047.ts|048.ts|049.ts|050.ts|051.ts|052.ts|053.ts|054.ts|055.ts|056.ts|057.ts|058.ts|059.ts|060.ts|061.ts|062.ts|063.ts|064.ts|065.ts|066.ts|067.ts|068.ts|069.ts|070.ts|071.ts|072.ts|073.ts|074.ts|075.ts|076.ts|077.ts|078.ts|079.ts|080.ts|081.ts|082.ts|083.ts|084.ts|085.ts|086.ts|087.ts|088.ts|089.ts|090.ts|091.ts|092.ts|093.ts|094.ts|095.ts|096.ts|097.ts|098.ts|099.ts|100.ts|101.ts|102.ts|103.ts|104.ts|105.ts|106.ts|107.ts|108.ts|109.ts|110.ts|111.ts|112.ts|113.ts|114.ts|115.ts|116.ts|117.ts|118.ts|119.ts|120.ts|121.ts|122.ts|123.ts|124.ts|125.ts|126.ts|127.ts|128.ts|129.ts|130.ts|131.ts|132.ts|133.ts|134.ts|135.ts|136.ts|137.ts|138.ts|139.ts|140.ts|141.ts|142.ts|143.ts|144.ts|145.ts|146.ts|147.ts|148.ts|149.ts|150.ts|151.ts|152.ts|153.ts|154.ts|155.ts|156.ts|157.ts|158.ts|159.ts|160.ts|161.ts|162.ts|163.ts|164.ts|165.ts|166.ts|167.ts|168.ts|169.ts|170.ts|171.ts|172.ts|173.ts|174.ts|175.ts|176.ts|177.ts|178.ts|179.ts|180.ts|181.ts|182.ts|183.ts|184.ts|185.ts|186.ts|187.ts|188.ts|189.ts|190.ts|191.ts|192.ts|193.ts|194.ts|195.ts|196.ts|197.ts|198.ts|199.ts|200.ts|201.ts|202.ts|203.ts|204.ts|205.ts|206.ts|207.ts|208.ts|209.ts|210.ts|211.ts|212.ts|213.ts|214.ts|215.ts|216.ts|217.ts|218.ts|219.ts|220.ts|221.ts|222.ts|223.ts|224.ts|225.ts|226.ts|227.ts|228.ts|229.ts|230.ts|231.ts|232.ts|233.ts|234.ts|235.ts|236.ts|237.ts|238.ts|239.ts|240.ts|241.ts|242.ts|243.ts|244.ts|245.ts|246.ts|247.ts|248.ts|249.ts|250.ts|251.ts|252.ts|253.ts|254.ts|255.ts|256.ts|257.ts|258.ts|259.ts|260.ts|261.ts|" -map "0:v?" -map "0:a?" -map "0:s?" -metadata "date=2021-11-29T12:18:57.5447330+08:00" -metadata "encoding_tool=" -metadata "title=" -metadata "copyright=" -metadata "comment=" -metadata:s:a:0 "handler_name=" -metadata:s:a:0 "handler=" -c copy -y -bsf:a aac_adtstoasc "D:\\workspace\\M3u8Downloader\\M3u8Downloader\\M3u8Downloader\\bin\\Debug\\net6.0\\Downloads\\index_20211129121813.mp4"
+ffmpeg version 2021-11-18-git-85a6b7f7b7-full_build-www.gyan.dev Copyright (c) 2000-2021 the FFmpeg developers
+  built with gcc 11.2.0 (Rev2, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-lzma --enable-libsnappy --enable-zlib --enable-librist --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-libbluray --enable-libcaca --enable-sdl2 --enable-libdav1d --enable-libdavs2 --enable-libuavs3d --enable-libzvbi --enable-librav1e --enable-libsvtav1 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs2 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-libass --enable-frei0r --enable-libfreetype --enable-libfribidi --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-ffnvcodec --enable-nvdec --enable-nvenc --enable-d3d11va --enable-dxva2 --enable-libmfx --enable-libglslang --enable-vulkan --enable-libplacebo --enable-opencl --enable-libcdio --enable-libgme --enable-libmodplug --enable-lib  libavutil      57.  9.100 / 57.  9.100
+  libavcodec     59. 13.100 / 59. 13.100
+  libavformat    59.  9.101 / 59.  9.101
+  libavdevice    59.  0.101 / 59.  0.101
+  libavfilter     8. 17.100 /  8. 17.100
+  libswscale      6.  1.100 /  6.  1.100
+  libswresample   4.  0.100 /  4.  0.100
+  libpostproc    56.  0.100 / 56.  0.100
+Input #0, mpegts, from 'concat:000.ts|001.ts|002.ts|003.ts|004.ts|005.ts|006.ts|007.ts|008.ts|009.ts|010.ts|011.ts|012.ts|013.ts|014.ts|015.ts|016.ts|017.ts|018.ts|019.ts|020.ts|021.ts|022.ts|023.ts|024.ts|025.ts|026.ts|027.ts|028.ts|029.ts|030.ts|031.ts|032.ts|033.ts|034.ts|035.ts|036.ts|037.ts|038.ts|039.ts|040.ts|041.ts|042.ts|043.ts|044.ts|045.ts|046.ts|047.ts|048.ts|049.ts|050.ts|051.ts|052.ts|053.ts|054.ts|055.ts|056.ts|057.ts|058.ts|059.ts|060.ts|061.ts|062.ts|063.ts|064.ts|065.ts|066.ts|067.ts|068.ts|069.ts|070.ts|071.ts|072.ts|073.ts|074.ts|075.ts|076.ts|077.ts|078.ts|079.ts|080.ts|081.ts|082.ts|083.ts|084.ts|085.ts|086.ts|087.ts|088.ts|089.ts|090.ts|091.ts|092.ts|093.ts|094.ts|095.ts|096.ts|097.ts|098.ts|099.ts|100.ts|101.ts|102.ts|103.ts|104.ts|105.ts|106.ts|107.ts|108.ts|109.ts|110.ts|111.ts|112.ts|113.ts|114.ts|115.ts|116.ts|117.ts|118.ts|119.ts|120.ts|121.ts|122.ts|123.ts|124.ts|125.ts|126.ts|127.ts|128.ts|129.ts|130.ts|131.ts|132.ts|133.ts|134.ts|135.ts|136.ts|137.ts|138.ts|139.ts|140.ts|141.t  Duration: 00:43:05.41, start: 1.433589, bitrate: 595 kb/s
+  Program 1 
+    Metadata:
+      service_name    : Service01
+      service_provider: FFmpeg
+  Stream #0:0[0x100]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(progressive), 856x480 [SAR 1280:1281 DAR 6848:3843], 25 fps, 25 tbr, 90k tbn
+  Stream #0:1[0x101]: Audio: aac (LC) ([15][0][0][0] / 0x000F), 44100 Hz, stereo, fltp, 131 kb/s
+Output #0, mp4, to 'D:\workspace\M3u8Downloader\M3u8Downloader\M3u8Downloader\bin\Debug\net6.0\Downloads\index_20211129121813.mp4':
+  Metadata:
+    date            : 2021-11-29T12:18:57.5447330+08:00
+    encoder         : Lavf59.9.101
+  Stream #0:0: Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 856x480 [SAR 1280:1281 DAR 6848:3843], q=2-31, 25 fps, 25 tbr, 90k tbn
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 131 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #0:1 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+frame=    1 fps=0.0 q=-1.0 size=       0kB time=00:00:00.00 bitrate=N/A speed=N/A    [mp4 @ 0000024ee0420880] Non-monotonous DTS in output stream 0:1; previous: 667648, current: 667521; changing to 667649. This may result in incorrect timestamps in the output file.
+frame=23348 fps=0.0 q=-1.0 size=   58112kB time=00:15:33.84 bitrate= 509.8kbits/s speed=1.87e+03x    frame=43482 fps=43482 q=-1.0 size=  109824kB time=00:28:59.28 bitrate= 517.3kbits/s speed=1.74e+03x    frame=62375 fps=41583 q=-1.0 size=  158464kB time=00:41:34.92 bitrate= 520.3kbits/s speed=1.66e+03x    frame=64634 fps=41055 q=-1.0 Lsize=  166718kB time=00:43:05.35 bitrate= 528.3kbits/s speed=1.64e+03x    
+video:124096kB audio:40488kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.296232%

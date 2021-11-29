@@ -1,0 +1,129 @@
+﻿LOG 2021/11/29
+Save Path: D:\workspace\YtDownloader\YtDownloader\YtDownloader\bin\Debug\Logs
+Task Start: 2021/11/29 17:02:43
+Task CommandLine: D:\workspace\YtDownloader\YtDownloader\YtDownloader\bin\Debug\M3u8Downloader.dll https://www.gvpass.com/1638176829/40f551db23e75701852d7f9141de0f59/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index.m3u8 波比哥哥3P合作無間雙龍肉便犬
+
+17:02:43.268 / (NORMAL) 开始解析 https://www.gvpass.com/1638176829/40f551db23e75701852d7f9141de0f59/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index.m3u8
+17:02:54.477 / (NORMAL) 不知道这样的主机。 (www.gvpass.com:443)
+17:02:54.478 / (ERROR) 不知道这样的主机。 (www.gvpass.com:443)
+17:03:01.640 / (NORMAL) 获取m3u8 key... key.key
+17:03:02.352 / (NORMAL) 写出meta.json
+17:03:02.454 / (NORMAL) 开始下载文件
+17:03:05.769 / (NORMAL) 读取文件信息...
+17:03:05.871 / (NORMAL) PID 0x100: Video h264 (High), yuv420p(progressive), 856x480 [SAR 1280:1281 DAR 6848:3843], 25 fps, 25 tbr, 90k tbn
+17:03:05.871 / (NORMAL) PID 0x101: Audio aac (LC), 44100 Hz, stereo, fltp, 131 kb/s
+17:03:16.777 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/a904e6bb30bb2b8b1d3b0e1fbe4ed928/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index194.js
+17:03:16.949 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/71dab0f1c885fd621ae28cd14ebf5eac/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index98.js
+17:03:16.997 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/da90e5393e7238b0302e8ee11e9332d0/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index66.js
+17:03:17.061 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/5c9b21a5c56de1e6d8bf0b6a5ddb64fd/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index3.js
+17:03:17.779 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/a904e6bb30bb2b8b1d3b0e1fbe4ed928/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index194.js
+17:03:17.955 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/71dab0f1c885fd621ae28cd14ebf5eac/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index98.js
+17:03:18.003 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/da90e5393e7238b0302e8ee11e9332d0/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index66.js
+17:03:18.066 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/5c9b21a5c56de1e6d8bf0b6a5ddb64fd/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index3.js
+17:03:20.774 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/5ceafd88c03fb41f570ee8355a42a465/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index131.js
+17:03:20.855 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/97a9256ef4561699938cec93f8fca20e/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index163.js
+17:03:21.778 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/5ceafd88c03fb41f570ee8355a42a465/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index131.js
+17:03:21.857 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/97a9256ef4561699938cec93f8fca20e/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index163.js
+17:03:24.265 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/c2a253fb81b679d2b504e9a603eb10a4/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index228.js
+17:03:25.280 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/c2a253fb81b679d2b504e9a603eb10a4/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index228.js
+17:03:27.795 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/a904e6bb30bb2b8b1d3b0e1fbe4ed928/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index194.js
+17:03:28.798 / (ERROR) DOWN: AUTO RETRY 2/3 https://data.zhujitg.com/a904e6bb30bb2b8b1d3b0e1fbe4ed928/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index194.js
+17:03:30.934 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/98e73aac3923857b2e6fbdbbc66b20c9/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index101.js
+17:03:31.872 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/97a9256ef4561699938cec93f8fca20e/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index163.js
+17:03:31.936 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/98e73aac3923857b2e6fbdbbc66b20c9/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index101.js
+17:03:32.876 / (ERROR) DOWN: AUTO RETRY 2/3 https://data.zhujitg.com/97a9256ef4561699938cec93f8fca20e/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index163.js
+17:03:32.924 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/f6136c14df24e55cca92be740dedef44/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index67.js
+17:03:32.973 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/4917076a827cb061df7b750cb2408bb6/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index5.js
+17:03:33.069 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/37a005a7e9fb42439851dd3f5bce9dd8/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index132.js
+17:03:33.101 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/40e3487546312f5ada31c533baf8e97a/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index36.js
+17:03:33.938 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/f6136c14df24e55cca92be740dedef44/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index67.js
+17:03:33.985 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/4917076a827cb061df7b750cb2408bb6/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index5.js
+17:03:34.080 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/37a005a7e9fb42439851dd3f5bce9dd8/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index132.js
+17:03:34.112 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/40e3487546312f5ada31c533baf8e97a/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index36.js
+17:03:38.829 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/a904e6bb30bb2b8b1d3b0e1fbe4ed928/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index194.js
+17:03:39.837 / (ERROR) DOWN: AUTO RETRY 3/3 https://data.zhujitg.com/a904e6bb30bb2b8b1d3b0e1fbe4ed928/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index194.js
+17:03:41.951 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/98e73aac3923857b2e6fbdbbc66b20c9/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index101.js
+17:03:42.889 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/97a9256ef4561699938cec93f8fca20e/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index163.js
+17:03:42.952 / (ERROR) DOWN: AUTO RETRY 2/3 https://data.zhujitg.com/98e73aac3923857b2e6fbdbbc66b20c9/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index101.js
+17:03:42.969 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/8c035d59f671c2edfb3dc81835370f29/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index231.js
+17:03:43.905 / (ERROR) DOWN: AUTO RETRY 3/3 https://data.zhujitg.com/97a9256ef4561699938cec93f8fca20e/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index163.js
+17:03:43.984 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/8c035d59f671c2edfb3dc81835370f29/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index231.js
+17:03:45.708 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/c014990aff0eec0cfa57ca96f5ace13f/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index7.js
+17:03:45.993 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/e14d511bfb29bcd4c398583fbb8f0756/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index136.js
+17:03:46.025 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/b6f33af5214cfeb67dcfa61762820ad3/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index40.js
+17:03:46.712 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/c014990aff0eec0cfa57ca96f5ace13f/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index7.js
+17:03:47.000 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/e14d511bfb29bcd4c398583fbb8f0756/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index136.js
+17:03:47.032 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/b6f33af5214cfeb67dcfa61762820ad3/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index40.js
+17:03:52.969 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/98e73aac3923857b2e6fbdbbc66b20c9/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index101.js
+17:03:52.984 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/55c7eca97abd6a8c457ced953dac2720/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index199.js
+17:03:53.920 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/97a9256ef4561699938cec93f8fca20e/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index163.js
+17:03:53.983 / (ERROR) DOWN: AUTO RETRY 3/3 https://data.zhujitg.com/98e73aac3923857b2e6fbdbbc66b20c9/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index101.js
+17:03:53.999 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/55c7eca97abd6a8c457ced953dac2720/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index199.js
+17:03:54.908 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/75ef75d0f140b2eaf0983d908cf878f4/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index232.js
+17:03:55.911 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/75ef75d0f140b2eaf0983d908cf878f4/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index232.js
+17:03:57.009 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/e14d511bfb29bcd4c398583fbb8f0756/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index136.js
+17:03:58.026 / (ERROR) DOWN: AUTO RETRY 2/3 https://data.zhujitg.com/e14d511bfb29bcd4c398583fbb8f0756/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index136.js
+17:03:58.954 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/d8b726d1bffed4c785efc930d1101cb3/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index44.js
+17:03:59.065 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/b8c14b9aad71708875fab797447511c9/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index72.js
+17:03:59.908 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/fd251f6d87efb9b16bae3336adbf6ed8/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index8.js
+17:03:59.969 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/d8b726d1bffed4c785efc930d1101cb3/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index44.js
+17:04:00.079 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/b8c14b9aad71708875fab797447511c9/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index72.js
+17:04:00.921 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/fd251f6d87efb9b16bae3336adbf6ed8/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index8.js
+17:04:03.945 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/8bdb9b94d7494419b6e57ef5b16db7d2/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index164.js
+17:04:03.992 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/98e73aac3923857b2e6fbdbbc66b20c9/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index101.js
+17:04:04.025 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/55c7eca97abd6a8c457ced953dac2720/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index199.js
+17:04:04.957 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/8bdb9b94d7494419b6e57ef5b16db7d2/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index164.js
+17:04:05.036 / (ERROR) DOWN: AUTO RETRY 2/3 https://data.zhujitg.com/55c7eca97abd6a8c457ced953dac2720/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index199.js
+17:04:06.116 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/a125a7990e789c413ef6f40f942673e5/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index233.js
+17:04:07.126 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/a125a7990e789c413ef6f40f942673e5/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index233.js
+17:04:08.632 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/e14d511bfb29bcd4c398583fbb8f0756/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index136.js
+17:04:09.646 / (ERROR) DOWN: AUTO RETRY 3/3 https://data.zhujitg.com/e14d511bfb29bcd4c398583fbb8f0756/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index136.js
+17:04:10.669 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/b8c14b9aad71708875fab797447511c9/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index72.js
+17:04:10.940 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/fd251f6d87efb9b16bae3336adbf6ed8/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index8.js
+17:04:11.052 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/dcdc23713f12e6c8bf671d5a57166616/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index49.js
+17:04:11.670 / (ERROR) DOWN: AUTO RETRY 2/3 https://data.zhujitg.com/b8c14b9aad71708875fab797447511c9/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index72.js
+17:04:11.956 / (ERROR) DOWN: AUTO RETRY 2/3 https://data.zhujitg.com/fd251f6d87efb9b16bae3336adbf6ed8/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index8.js
+17:04:12.068 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/dcdc23713f12e6c8bf671d5a57166616/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index49.js
+17:04:14.001 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/2f9f79a5aa085bc636bdeb333eaf1742/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index102.js
+17:04:15.004 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/2f9f79a5aa085bc636bdeb333eaf1742/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index102.js
+17:04:20.061 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/044121cfe021a474e522cd3e1c151314/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index138.js
+17:04:21.065 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/044121cfe021a474e522cd3e1c151314/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index138.js
+17:04:22.083 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/dcdc23713f12e6c8bf671d5a57166616/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index49.js
+17:04:23.096 / (ERROR) DOWN: AUTO RETRY 2/3 https://data.zhujitg.com/dcdc23713f12e6c8bf671d5a57166616/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index49.js
+17:04:27.042 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/d59f8b2d660b3d2d30c1caa51fb9eac9/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index239.js
+17:04:27.042 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/d1d1ebe3aa7a2ec90766c577c4b93720/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index104.js
+17:04:28.057 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/d1d1ebe3aa7a2ec90766c577c4b93720/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index104.js
+17:04:28.058 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/d59f8b2d660b3d2d30c1caa51fb9eac9/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index239.js
+17:04:36.042 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/2f5e617a1d5ec5dd9d1f1a1cd4dbaef7/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index211.js
+17:04:36.058 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/f8b188e8abacb3c688f73a41fec29cc9/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index142.js
+17:04:37.046 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/2f5e617a1d5ec5dd9d1f1a1cd4dbaef7/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index211.js
+17:04:37.062 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/f8b188e8abacb3c688f73a41fec29cc9/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index142.js
+17:04:38.071 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/d1d1ebe3aa7a2ec90766c577c4b93720/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index104.js
+17:04:38.072 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/d59f8b2d660b3d2d30c1caa51fb9eac9/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index239.js
+17:04:39.075 / (ERROR) DOWN: AUTO RETRY 2/3 https://data.zhujitg.com/d59f8b2d660b3d2d30c1caa51fb9eac9/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index239.js
+17:04:39.076 / (ERROR) DOWN: AUTO RETRY 2/3 https://data.zhujitg.com/d1d1ebe3aa7a2ec90766c577c4b93720/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index104.js
+17:04:40.072 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/464ca833c1a8d511bf6d01df4caecf4a/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index177.js
+17:04:40.073 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/f24cf64626d6b6059a0f3944c3ada696/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index18.js
+17:04:41.087 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/464ca833c1a8d511bf6d01df4caecf4a/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index177.js
+17:04:41.087 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/f24cf64626d6b6059a0f3944c3ada696/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index18.js
+17:04:47.053 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/2f5e617a1d5ec5dd9d1f1a1cd4dbaef7/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index211.js
+17:04:47.070 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/f8b188e8abacb3c688f73a41fec29cc9/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index142.js
+17:04:48.069 / (ERROR) DOWN: AUTO RETRY 2/3 https://data.zhujitg.com/2f5e617a1d5ec5dd9d1f1a1cd4dbaef7/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index211.js
+17:04:48.085 / (ERROR) DOWN: AUTO RETRY 2/3 https://data.zhujitg.com/f8b188e8abacb3c688f73a41fec29cc9/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index142.js
+17:04:49.080 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/d59f8b2d660b3d2d30c1caa51fb9eac9/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index239.js
+17:04:49.081 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/d1d1ebe3aa7a2ec90766c577c4b93720/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index104.js
+17:04:50.034 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/abdce1f58dff38d74073689c9d85b75a/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index57.js
+17:04:50.094 / (ERROR) DOWN: AUTO RETRY 3/3 https://data.zhujitg.com/d1d1ebe3aa7a2ec90766c577c4b93720/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index104.js
+17:04:50.094 / (ERROR) DOWN: AUTO RETRY 3/3 https://data.zhujitg.com/d59f8b2d660b3d2d30c1caa51fb9eac9/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index239.js
+17:04:51.037 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/abdce1f58dff38d74073689c9d85b75a/61a49740/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index57.js
+17:05:02.887 / (NORMAL) 完成数量 260 of 262
+17:05:02.888 / (NORMAL) 重试次数 1 / 15
+17:05:05.899 / (NORMAL) 开始下载文件
+17:05:07.153 / (NORMAL) 开始合并分片...
+17:05:08.855 / (NORMAL) 结果输出至 [ffreport.log]
+17:05:08.855 / (NORMAL) 任务结束
+
+Task End: 2021/11/29 17:05:08
+File: D:\workspace\YtDownloader\YtDownloader\YtDownloader\bin\Debug\Downloads\波比哥哥3P合作無間雙龍肉便犬_2021-11-29_17-05-07.mp4
+
+

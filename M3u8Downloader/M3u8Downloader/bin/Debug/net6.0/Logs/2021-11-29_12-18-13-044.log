@@ -1,0 +1,36 @@
+﻿LOG 2021/11/29
+Save Path: D:\workspace\M3u8Downloader\M3u8Downloader\M3u8Downloader\bin\Debug\net6.0\Logs
+Task Start: 2021/11/29 12:18:13
+Task CommandLine: D:\workspace\M3u8Downloader\M3u8Downloader\M3u8Downloader\bin\Debug\net6.0\M3u8Downloader.dll
+
+12:18:13.048 / (NORMAL) 开始解析 https://www.gvpass.com/1638159524/000b2905de4b8830be2202c359b447d9/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index.m3u8
+12:18:15.078 / (NORMAL) 获取m3u8 key... key.key
+12:18:15.606 / (NORMAL) 写出meta.json
+12:18:21.970 / (NORMAL) 开始下载文件
+12:18:22.259 / (NORMAL) 读取文件信息...
+12:18:22.589 / (NORMAL) PID 0x100: Video h264 (High), yuv420p(progressive), 856x480 [SAR 1280:1281 DAR 6848:3843], 25 fps, 25 tbr, 90k tbn
+12:18:22.590 / (NORMAL) PID 0x101: Audio aac (LC), 44100 Hz, stereo, fltp, 131 kb/s
+12:18:40.716 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/9a4e8d883cb53441517b12f684cf6e80/61a45485/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index65.js
+12:18:40.717 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/e2a51abd1395556b6d5c089df33c5afb/61a45485/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index49.js
+12:18:40.744 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/e9bdcef22fd58d7900153d6ef942381a/61a45485/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index129.js
+12:18:40.763 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/85406d10934397f284bd87b3abcb33c7/61a45485/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index82.js
+12:18:40.778 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/007d01946a824eb690b93c7199af5049/61a45485/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index33.js
+12:18:40.824 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/846e5e18a0df1c90d4697eaff9b27e00/61a45485/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index97.js
+12:18:40.825 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/8abb46282cd43be8ac370050f9e32952/61a45485/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index114.js
+12:18:40.843 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/19e3368e6d01817fa1448f5ecf5eae9c/61a45485/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index18.js
+12:18:41.723 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/e2a51abd1395556b6d5c089df33c5afb/61a45485/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index49.js
+12:18:41.723 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/9a4e8d883cb53441517b12f684cf6e80/61a45485/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index65.js
+12:18:41.770 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/e9bdcef22fd58d7900153d6ef942381a/61a45485/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index129.js
+12:18:41.786 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/007d01946a824eb690b93c7199af5049/61a45485/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index33.js
+12:18:41.787 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/85406d10934397f284bd87b3abcb33c7/61a45485/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index82.js
+12:18:41.833 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/846e5e18a0df1c90d4697eaff9b27e00/61a45485/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index97.js
+12:18:41.848 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/8abb46282cd43be8ac370050f9e32952/61a45485/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index114.js
+12:18:41.864 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/19e3368e6d01817fa1448f5ecf5eae9c/61a45485/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index18.js
+12:18:57.501 / (NORMAL) 开始合并分片...
+12:18:59.215 / (NORMAL) 结果输出至 [ffreport.log]
+12:18:59.215 / (NORMAL) 任务结束
+
+Task End: 2021/11/29 12:18:59
+File: D:\workspace\M3u8Downloader\M3u8Downloader\M3u8Downloader\bin\Debug\net6.0\Downloads\index_20211129121813.mp4
+
+

@@ -1,0 +1,10 @@
+D:\workspace\YtDownloader\YtDownloader\YtDownloader\bin\Release\YtDownloader.exe.config
+D:\workspace\YtDownloader\YtDownloader\YtDownloader\bin\Release\YtDownloader.exe
+D:\workspace\YtDownloader\YtDownloader\YtDownloader\bin\Release\YtDownloader.pdb
+D:\workspace\YtDownloader\YtDownloader\YtDownloader\obj\Release\YtDownloader.csproj.SuggestedBindingRedirects.cache
+D:\workspace\YtDownloader\YtDownloader\YtDownloader\obj\Release\YtDownloader.Form1.resources
+D:\workspace\YtDownloader\YtDownloader\YtDownloader\obj\Release\YtDownloader.Properties.Resources.resources
+D:\workspace\YtDownloader\YtDownloader\YtDownloader\obj\Release\YtDownloader.csproj.GenerateResource.cache
+D:\workspace\YtDownloader\YtDownloader\YtDownloader\obj\Release\YtDownloader.csproj.CoreCompileInputs.cache
+D:\workspace\YtDownloader\YtDownloader\YtDownloader\obj\Release\YtDownloader.exe
+D:\workspace\YtDownloader\YtDownloader\YtDownloader\obj\Release\YtDownloader.pdb

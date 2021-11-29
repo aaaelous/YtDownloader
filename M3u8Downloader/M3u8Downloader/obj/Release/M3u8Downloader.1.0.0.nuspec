@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>M3u8Downloader</id>
+    <version>1.0.0</version>
+    <authors>M3u8Downloader</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+    <contentFiles>
+      <files include="any/net6.0/a1vsr-d433r-001.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="D:\workspace\M3u8Downloader\M3u8Downloader\M3u8Downloader\bin\Release\net6.0\en-US\M3u8Downloader.resources.dll" target="lib\net6.0\en-US\M3u8Downloader.resources.dll" />
+    <file src="D:\workspace\M3u8Downloader\M3u8Downloader\M3u8Downloader\bin\Release\net6.0\zh-TW\M3u8Downloader.resources.dll" target="lib\net6.0\zh-TW\M3u8Downloader.resources.dll" />
+    <file src="D:\workspace\M3u8Downloader\M3u8Downloader\M3u8Downloader\bin\Release\net6.0\M3u8Downloader.runtimeconfig.json" target="lib\net6.0\M3u8Downloader.runtimeconfig.json" />
+    <file src="D:\workspace\M3u8Downloader\M3u8Downloader\M3u8Downloader\bin\Release\net6.0\M3u8Downloader.dll" target="lib\net6.0\M3u8Downloader.dll" />
+    <file src="D:\workspace\M3u8Downloader\M3u8Downloader\M3u8Downloader\a1vsr-d433r-001.ico" target="content\a1vsr-d433r-001.ico" />
+    <file src="D:\workspace\M3u8Downloader\M3u8Downloader\M3u8Downloader\a1vsr-d433r-001.ico" target="contentFiles\any\net6.0\a1vsr-d433r-001.ico" />
+  </files>
+</package>

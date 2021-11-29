@@ -1,0 +1,20 @@
+﻿LOG 2021/11/29
+Save Path: D:\workspace\M3u8Downloader\M3u8Downloader\M3u8Downloader\bin\Debug\net6.0\Logs
+Task Start: 2021/11/29 12:19:46
+Task CommandLine: D:\workspace\M3u8Downloader\M3u8Downloader\M3u8Downloader\bin\Debug\net6.0\M3u8Downloader.dll
+
+12:19:46.786 / (NORMAL) 开始解析 https://www.gvpass.com/1638159870/3834456a21ce9f60c64dd366c0ccbd4f/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index.m3u8
+12:19:48.756 / (NORMAL) 获取m3u8 key... key.key
+12:19:49.314 / (NORMAL) 写出meta.json
+12:19:51.999 / (NORMAL) 开始下载文件
+12:19:52.255 / (NORMAL) 读取文件信息...
+12:19:52.355 / (NORMAL) PID 0x100: Video h264 (High), yuv420p(progressive), 856x480 [SAR 1280:1281 DAR 6848:3843], 25 fps, 25 tbr, 90k tbn
+12:19:52.356 / (NORMAL) PID 0x101: Audio aac (LC), 44100 Hz, stereo, fltp, 131 kb/s
+12:20:12.368 / (NORMAL) 开始合并分片...
+12:20:14.058 / (NORMAL) 结果输出至 [ffreport.log]
+12:20:14.058 / (NORMAL) 任务结束
+
+Task End: 2021/11/29 12:20:14
+File: D:\workspace\M3u8Downloader\M3u8Downloader\M3u8Downloader\bin\Debug\net6.0\Downloads\index_20211129121946.mp4
+
+

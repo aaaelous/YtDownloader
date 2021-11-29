@@ -1,0 +1,8 @@
+﻿LOG 2021/11/29
+Save Path: D:\workspace\M3u8Downloader\M3u8Downloader\M3u8Downloader\bin\Debug\net6.0\Logs
+Task Start: 2021/11/29 13:47:52
+Task CommandLine: D:\workspace\M3u8Downloader\M3u8Downloader\M3u8Downloader\bin\Debug\net6.0\M3u8Downloader.dll https://www.gvpass.com/1638165048/45b7f023fdab4267af8a4189f414d9bf/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index.m3u8 哥哥 D:\
+
+13:47:52.784 / (NORMAL) 开始解析 https://www.gvpass.com/1638165048/45b7f023fdab4267af8a4189f414d9bf/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index.m3u8
+13:47:58.996 / (NORMAL) 获取m3u8 key... key.key
+13:47:59.520 / (NORMAL) 写出meta.json

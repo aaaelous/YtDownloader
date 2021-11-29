@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ApplicationIcon>a1vsr-d433r-001.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="a1vsr-d433r-001.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="BrotliSharpLib">
+      <HintPath>..\packages\BrotliSharpLib.0.3.3\lib\net40\BrotliSharpLib.dll</HintPath>
+    </Reference>
+    <Reference Include="CommandLine">
+      <HintPath>..\packages\CommandLineParser.2.8.0\lib\net40\CommandLine.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net40\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="NiL.JS">
+      <HintPath>..\packages\NiL.JS.2.5.1428\lib\net40\NiL.JS.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

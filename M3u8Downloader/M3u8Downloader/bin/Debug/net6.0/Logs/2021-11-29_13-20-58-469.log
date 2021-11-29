@@ -1,0 +1,7 @@
+﻿LOG 2021/11/29
+Save Path: D:\workspace\M3u8Downloader\M3u8Downloader\M3u8Downloader\bin\Debug\net6.0\Logs
+Task Start: 2021/11/29 13:20:58
+Task CommandLine: D:\workspace\M3u8Downloader\M3u8Downloader\M3u8Downloader\bin\Debug\net6.0\M3u8Downloader.dll
+
+13:20:58.470 / (NORMAL) 开始解析 https://www.gvpass.com/1638163053/0bee82b81cb6d9667269380071ef4b60/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index.m3u8
+13:20:59.429 / (ERROR) 无效的m3u8

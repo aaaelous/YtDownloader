@@ -1,0 +1,20 @@
+﻿LOG 2021/11/29
+Save Path: D:\workspace\YtDownloader\YtDownloader\YtDownloader\bin\Debug\Logs
+Task Start: 2021/11/29 16:23:30
+Task CommandLine: D:\workspace\YtDownloader\YtDownloader\YtDownloader\bin\Debug\M3u8Downloader.dll https://www.gvpass.com/1638174231/dc7770fc40a9890bd1426c40095d0dc3/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index.m3u8 波比哥哥3P合作無間雙龍肉便犬
+
+16:23:30.914 / (NORMAL) 开始解析 https://www.gvpass.com/1638174231/dc7770fc40a9890bd1426c40095d0dc3/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index.m3u8
+16:23:32.909 / (NORMAL) 获取m3u8 key... key.key
+16:23:33.435 / (NORMAL) 写出meta.json
+16:23:33.536 / (NORMAL) 开始下载文件
+16:23:33.839 / (NORMAL) 读取文件信息...
+16:23:33.931 / (NORMAL) PID 0x100: Video h264 (High), yuv420p(progressive), 856x480 [SAR 1280:1281 DAR 6848:3843], 25 fps, 25 tbr, 90k tbn
+16:23:33.933 / (NORMAL) PID 0x101: Audio aac (LC), 44100 Hz, stereo, fltp, 131 kb/s
+16:23:48.075 / (NORMAL) 开始合并分片...
+16:23:49.763 / (NORMAL) 结果输出至 [ffreport.log]
+16:23:49.764 / (NORMAL) 任务结束
+
+Task End: 2021/11/29 16:23:49
+File: D:\workspace\YtDownloader\YtDownloader\YtDownloader\bin\Debug\Downloads\波比哥哥3P合作無間雙龍肉便犬.mp4
+
+

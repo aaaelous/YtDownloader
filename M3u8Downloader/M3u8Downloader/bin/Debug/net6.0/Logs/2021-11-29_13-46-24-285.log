@@ -1,0 +1,24 @@
+﻿LOG 2021/11/29
+Save Path: D:\workspace\M3u8Downloader\M3u8Downloader\M3u8Downloader\bin\Debug\net6.0\Logs
+Task Start: 2021/11/29 13:46:24
+Task CommandLine: D:\workspace\M3u8Downloader\M3u8Downloader\M3u8Downloader\bin\Debug\net6.0\M3u8Downloader.dll https://www.gvpass.com/1638165048/45b7f023fdab4267af8a4189f414d9bf/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index.m3u8 哥哥
+
+13:46:24.288 / (NORMAL) 开始解析 https://www.gvpass.com/1638165048/45b7f023fdab4267af8a4189f414d9bf/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index.m3u8
+13:46:26.298 / (NORMAL) 获取m3u8 key... key.key
+13:46:26.838 / (NORMAL) 写出meta.json
+13:46:30.799 / (NORMAL) 开始下载文件
+13:46:31.148 / (NORMAL) 读取文件信息...
+13:46:31.245 / (NORMAL) PID 0x100: Video h264 (High), yuv420p(progressive), 856x480 [SAR 1280:1281 DAR 6848:3843], 25 fps, 25 tbr, 90k tbn
+13:46:31.246 / (NORMAL) PID 0x101: Audio aac (LC), 44100 Hz, stereo, fltp, 131 kb/s
+13:46:49.575 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/629c0329640e9c19bcde41539a5e8017/61a46930/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index238.js
+13:46:49.575 / (ERROR) DOWN: The operation has timed out. https://data.zhujitg.com/40f360e39fe850eb6fdc11b81ca68c66/61a46930/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index15.js
+13:46:50.586 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/629c0329640e9c19bcde41539a5e8017/61a46930/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index238.js
+13:46:50.587 / (ERROR) DOWN: AUTO RETRY 1/3 https://data.zhujitg.com/40f360e39fe850eb6fdc11b81ca68c66/61a46930/data/bae035f7a72bf7d1a64df1cea50cc2cc/450/index15.js
+13:47:19.428 / (NORMAL) 开始合并分片...
+13:47:21.051 / (NORMAL) 结果输出至 [ffreport.log]
+13:47:21.052 / (NORMAL) 任务结束
+
+Task End: 2021/11/29 13:47:21
+File: D:\workspace\M3u8Downloader\M3u8Downloader\M3u8Downloader\bin\Debug\net6.0\Downloads\哥哥.mp4
+
+
