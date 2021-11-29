@@ -4,6 +4,8 @@ yt看视频下载
 
 # **一、油猴插件**
 
+![image](https://user-images.githubusercontent.com/49520996/143842058-c4f0148d-2250-4baa-b133-c7ba80ea7f9e.png)
+
 ```
 (function() {
     'use strict';
@@ -56,6 +58,9 @@ yt看视频下载
 
 # 二、M3u8downloader
 编译好将所有文件放在YtDownloader的realease目录
+
+![image](https://user-images.githubusercontent.com/49520996/143842231-53cb59f0-03a8-4c9c-b39f-6af2e668d62b.png)
+
 
 # 三、YtDownloader
 C#写的UI界面，与M3u8downloader的交互通过Socket，所以不要让端口被占用啦
