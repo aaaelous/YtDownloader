@@ -90,3 +90,5 @@ public Form1()
     serverThread.Start(socket);
 }
 ```
+
+++[交流基地](https://jq.qq.com/?_wv=1027&k=NSxQlz9R)++
